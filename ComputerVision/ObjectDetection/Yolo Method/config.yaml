@@ -1,0 +1,9 @@
+path: C:/ComputerVision/ObjectDetection/Yolo Method/Data   # root dataset folder
+train: images/train
+val: images/val
+
+names:
+  0: livelong
+  1: thankyou
+  2: thumbsdown
+  3: thumbsup
